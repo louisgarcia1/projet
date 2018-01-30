@@ -1,0 +1,13 @@
+.shadow-bloc { 
+	text-align: center;
+	background-color: #34455E;
+	margin-top: 30px;
+	margin-bottom: 290px;
+	margin-right: 290px;
+	margin-left: 290px;
+	padding: 30px;
+	padding-bottom: 90px; 
+	border: solid 5px red;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0, 2) black;
+}

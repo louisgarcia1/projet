@@ -1,0 +1,50 @@
+
+@import url("components/frame.css") ;
+@import url("components/card.css") ;
+
+h1 { color: red;
+	text-shadow: 3px 3px black;
+	font-size: 80px;
+	font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+	color: white;
+	text-shadow: 1px 1px black;
+}
+
+
+body {
+	background-color: rgb(180, 180, 180);
+}
+
+.gras {
+	font-weight: bold
+}
+
+#mario {
+	width: 90px;
+}
+
+.icon-network {
+	font-size: 50px;
+	color: red;
+	text-decoration: none;
+	text-shadow: 4px 4px 4px black;
+	width: 50px	;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	letter-spacing: 1px;
+}
+
+a:hover { 
+ color: #00B852;
+}
+
+.container {
+	background-color: red;
+}
+
